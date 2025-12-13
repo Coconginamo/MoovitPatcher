@@ -44,3 +44,7 @@ To get a Google API key, follow these steps:
 ## Contributing
 
 If you want to add patches you can open an issue and I will implement it, or you can add patches yourself and open pull request.
+
+## Disclaimer
+
+For educational purpose only or something like that. I am not responsible for any misuse of this software.
